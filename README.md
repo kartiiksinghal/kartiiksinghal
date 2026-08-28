@@ -5,7 +5,6 @@ Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hu
 ## 🔭 What I'm working on
 - 📦 **Delhivery Last-Mile Delivery Analytics** — root-caused delivery delays across India using real operational data (see pinned repo)
 - 🎯 Prepping for placements — Python, SQL, and case-style analytics problems, daily
-- ⚡ Reading up on the EV charging business landscape in India on the side
 
 ## 🛠️ Skills
 **Languages:** Python, SQL
