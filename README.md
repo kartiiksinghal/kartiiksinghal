@@ -29,8 +29,8 @@ CNN-based facial emotion classifier trained on the JAFFE dataset.
 `Python` `TensorFlow/Keras` `CNN`
 
 ## 📫 Connect with me
-- LinkedIn: [your-linkedin-url]
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/kartik-singhal-88915a256
+- Email: singhalkartik158@gmail.com
 
 ---
 *Open to Data Analyst / BA / BI roles in Delhi, Noida, Gurugram — also open to remote.*
