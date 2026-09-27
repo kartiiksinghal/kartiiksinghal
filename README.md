@@ -23,7 +23,7 @@ Analyzed real last-mile delivery trip data to quantify delays (`actual_time - os
 Real-time crowd density detection system built for India-specific crowd-safety scenarios, deployed as a live demo.
 `YOLOv8` `OpenCV` `Streamlit` `Hugging Face Spaces`
 
-### [Expressify — Facial Emotion Detection](your-repo-link-here)
+### [Expressify — Facial-Emotion-Detection] https://github.com/kartiiksinghal/Expressify-Facial-Emotion-Detection
 CNN-based facial emotion classifier trained on the JAFFE dataset.
 `Python` `TensorFlow/Keras` `CNN`
 
