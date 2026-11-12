@@ -4,6 +4,7 @@ Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hu
 
 ## 🔭 What I'm working on
 - 🏗️ **Walmart Retail Data Engineering Pipeline**: an end-to-end ELT pipeline from PostgreSQL to a Databricks lakehouse, with dbt and Airflow
+- 🦷 **Dental caries analytics**: extending my image-classification project with a predictive analysis phase on structured dental health data
 - 🎯 Prepping for placements: Python, SQL, and case-style analytics problems, daily
 
 ## 🛠️ Skills
@@ -19,6 +20,10 @@ Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hu
 ### [Walmart Retail Data Engineering Pipeline](https://github.com/kartiiksinghal/Walmart_Airflow_DBT_project)
 Building an end-to-end ELT pipeline over six relational retail tables (customers, stores, products, employees, orders, order items). Data moves from PostgreSQL through AWS S3 into a Databricks lakehouse, is transformed with dbt, and is orchestrated with Airflow on Docker.
 `Python` `PostgreSQL` `AWS S3` `Databricks` `dbt` `Airflow` `Docker`
+
+### [Dental Caries Detection using CNN & Transfer Learning](https://github.com/kartiiksinghal/dental-caries-detection-cnn)
+Academic project classifying dental X-rays as caries vs. normal, comparing a from-scratch CNN, MobileNetV2 transfer learning, classical ML (Logistic Regression, SVM, Random Forest, Ensemble) on extracted deep features, and an LSTM variant. Built on a small dataset (84 images), so the repo documents its limitations openly (small test set, no leakage check yet, no cross-validation) and lists the fixes in progress: leakage verification, k-fold CV, and Grad-CAM.
+`Python` `TensorFlow/Keras` `scikit-learn` `MobileNetV2`
 
 ### [Expressify: Facial-Emotion-Detection](https://github.com/kartiiksinghal/Expressify-Facial-Emotion-Detection)
 CNN-based facial emotion classifier trained on the JAFFE dataset.
