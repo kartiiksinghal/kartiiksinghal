@@ -16,7 +16,7 @@ Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hu
 
 ## 📌 Featured Projects
 
-### [Walmart Retail Data Engineering Pipeline](your-repo-link-here)
+### [Walmart Retail Data Engineering Pipeline](https://github.com/kartiiksinghal/Walmart_Airflow_DBT_project)
 Building an end-to-end ELT pipeline over six relational retail tables (customers, stores, products, employees, orders, order items). Data moves from PostgreSQL through AWS S3 into a Databricks lakehouse, is transformed with dbt, and is orchestrated with Airflow on Docker.
 `Python` `PostgreSQL` `AWS S3` `Databricks` `dbt` `Airflow` `Docker`
 
