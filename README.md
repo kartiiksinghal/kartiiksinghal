@@ -1,29 +1,26 @@
 # Hi, I'm Kartik 👋
 
-Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hunting for **Data Analyst / Business Analyst / BI Analyst** roles across Delhi NCR — and building projects to prove I can do the job, not just talk about it.
+Final-year MCA student (USICT, GGSIPU Delhi) turning data into decisions. I'm hunting for **Data Analyst / Business Analyst / BI Analyst** roles across Delhi NCR, and building projects to prove I can do the job, not just talk about it.
 
 ## 🔭 What I'm working on
-- 📦 **Delhivery Last-Mile Delivery Analytics** — root-caused delivery delays across India using real operational data (see pinned repo)
-- 🎯 Prepping for placements — Python, SQL, and case-style analytics problems, daily
+- 🏗️ **Walmart Retail Data Engineering Pipeline**: an end-to-end ELT pipeline from PostgreSQL to a Databricks lakehouse, with dbt and Airflow
+- 🎯 Prepping for placements: Python, SQL, and case-style analytics problems, daily
 
 ## 🛠️ Skills
 **Languages:** Python, SQL
 **Analytics/BI:** Power BI, Excel (Pivot Tables, formulas)
 **Databases:** PostgreSQL, SQLite
+**Data Engineering:** ETL/ELT, dbt, Apache Airflow, Databricks, AWS S3, Docker
 **Libraries:** Pandas, NumPy
 **Other:** Git/GitHub, basic Streamlit deployment
 
 ## 📌 Featured Projects
 
-### [Delhivery Delivery Delay Analytics](your-repo-link-here)
-Analyzed real last-mile delivery trip data to quantify delays (`actual_time - osrm_time`) across Indian logistics corridors. Found that extreme delay outliers concentrate on Northeast India routes (Gurgaon→Kolkata, Guwahati→Kolkata) — a finding with direct route-planning implications.
-`Python` `PostgreSQL` `Power BI` `Excel`
+### [Walmart Retail Data Engineering Pipeline](your-repo-link-here)
+Building an end-to-end ELT pipeline over six relational retail tables (customers, stores, products, employees, orders, order items). Data moves from PostgreSQL through AWS S3 into a Databricks lakehouse, is transformed with dbt, and is orchestrated with Airflow on Docker.
+`Python` `PostgreSQL` `AWS S3` `Databricks` `dbt` `Airflow` `Docker`
 
-### [Crowd Density & Stampede Early-Warning System](your-repo-link-here)
-Real-time crowd density detection system built for India-specific crowd-safety scenarios, deployed as a live demo.
-`YOLOv8` `OpenCV` `Streamlit` `Hugging Face Spaces`
-
-### [Expressify — Facial-Emotion-Detection](https://github.com/kartiiksinghal/Expressify-Facial-Emotion-Detection)
+### [Expressify: Facial-Emotion-Detection](https://github.com/kartiiksinghal/Expressify-Facial-Emotion-Detection)
 CNN-based facial emotion classifier trained on the JAFFE dataset.
 `Python` `TensorFlow/Keras` `CNN`
 
@@ -32,4 +29,4 @@ CNN-based facial emotion classifier trained on the JAFFE dataset.
 - Email: singhalkartik158@gmail.com
 
 ---
-*Open to Data Analyst / BA / BI roles in Delhi, Noida, Gurugram — also open to remote.*
+*Open to Data Analyst / BA / BI roles in Delhi, Noida, Gurugram, also open to remote.*
